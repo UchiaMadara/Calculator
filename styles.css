@@ -1,0 +1,36 @@
+body{
+    
+    display: block;
+    margin: 20px;
+    background-color: black;
+    color:white;
+    
+}
+
+button {
+
+    padding:20px;
+    border-radius: 100%;
+    background-color: rgb(44, 40, 40);
+    color: white;
+    font-size: larger;
+    height: 60px;
+    width:60px;
+    box-shadow: none;
+    cursor:pointer;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    text-align:center;
+    
+
+}
+
+.orange-button {
+    background-color: rgb(197, 131, 9);
+    
+}
+
+.clear{
+    font-size: 15px;
+    
+}
